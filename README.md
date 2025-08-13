@@ -14,7 +14,7 @@ Each folder represents a weekly project with increasing complexity, starting fro
 8. **Week 08** – Final University Management System
 
 ## 🛠 Tech Stack
-- Java 17+
+- Java 21
 - Spring Boot 3+
 - Maven
 - MySQL / H2 Database
