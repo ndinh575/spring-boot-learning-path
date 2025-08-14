@@ -59,7 +59,7 @@ mvn spring-boot:run
 ```
 - Option 2 - Using IntelliJ IDEA:
 1. Open the project in IntelliJ IDEA.
-2. Locate HelloSpringBootApplication.java.
+2. Locate Week01HelloSpringBootApplication.java.
 3. Right-click → Run.
 
 Once running, open:
